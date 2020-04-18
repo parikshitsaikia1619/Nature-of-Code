@@ -1,2 +1,2 @@
 # Nature of Code
- projects of simulating natural systems with processing
+ projects on simulating natural systems with processing
